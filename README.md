@@ -1,18 +1,20 @@
 # _Full Stack Todo Application_
 
 ## _Using MERN Stack_
+_<b>Create Full Fledge Todo App as guided in the Class</b>_
 
-Create Full Fledge Todo App as guided in the Class
-
+## _Use Case 1_
 1. Don't decouple Todos and Tasks as separate models
 
 2. Modify the Todo model such that it adds
 createdDate, modifiedDate
-* Use case: Sort based on time
+   * Use case: Sort based on time
 
 3. Add user authentication functionality
 
-4. Explore **AppWrite.io** docs
+## _Use Case 2(Appwrite)_
+
+4. Explore **_AppWrite.io_** docs
 - How to use for web?
 - Project setup and creation on local
 - Explore Authentication section docs
